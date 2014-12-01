@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 21:02:17.093000,fl-2003-10-07-special-general,2003-10-07 00:00:00,2003-10-07 00:00:00,general,certified,True,State Representative,054,,Sullivan,Don,,,Republican,Pinellas,ocd-division/country:us/state:fl/county:pinellas,4907,,,,,2003
+2014-11-30 21:02:17.093000,fl-2003-10-07-special-general,2003-10-07 00:00:00,2003-10-07 00:00:00,general,certified,True,State Representative,054,,Coleman,Dan,,,Democrat,Pinellas,ocd-division/country:us/state:fl/county:pinellas,1791,,,,,2003
