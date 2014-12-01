@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:44:58.323000,fl-2011-06-28-special-general,2011-06-28 00:00:00,2011-06-28 00:00:00,general,certified,True,State Representative,110,,Oliva,Jose,,,Republican,Miami-Dade,ocd-division/country:us/state:fl/county:miami-dade,9947,,,,,2011
+2014-11-30 20:44:58.323000,fl-2011-06-28-special-general,2011-06-28 00:00:00,2011-06-28 00:00:00,general,certified,True,State Representative,110,,Moreno,Antonio,,,Write-In,Miami-Dade,ocd-division/country:us/state:fl/county:miami-dade,713,,,,,2011
