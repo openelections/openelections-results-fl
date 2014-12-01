@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:53:31.429000,fl-2007-10-09-special-primary,2007-10-09 00:00:00,2007-10-09 00:00:00,primary,certified,True,State Representative,034,,Roosa,Allen,,,Republican,Orange,ocd-division/country:us/state:fl/county:orange,31,,,,,2007
+2014-11-30 20:53:31.429000,fl-2007-10-09-special-primary,2007-10-09 00:00:00,2007-10-09 00:00:00,primary,certified,True,State Representative,034,,Dorworth,Chris,,,Republican,Orange,ocd-division/country:us/state:fl/county:orange,2,,,,,2007
+2014-11-30 20:53:31.429000,fl-2007-10-09-special-primary,2007-10-09 00:00:00,2007-10-09 00:00:00,primary,certified,True,State Representative,034,,Roosa,Allen,,,Republican,Seminole,ocd-division/country:us/state:fl/county:seminole,1898,,,,,2007
+2014-11-30 20:53:31.429000,fl-2007-10-09-special-primary,2007-10-09 00:00:00,2007-10-09 00:00:00,primary,certified,True,State Representative,034,,Dorworth,Chris,,,Republican,Seminole,ocd-division/country:us/state:fl/county:seminole,1995,,,,,2007
