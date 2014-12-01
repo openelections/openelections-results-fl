@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:52:59.512000,fl-2007-11-20-special-general,2007-11-20 00:00:00,2007-11-20 00:00:00,general,certified,True,State Representative,101,,Hudson,Matt,,,Republican,Broward,ocd-division/country:us/state:fl/county:broward,483,,,,,2007
+2014-11-30 20:52:59.512000,fl-2007-11-20-special-general,2007-11-20 00:00:00,2007-11-20 00:00:00,general,certified,True,State Representative,101,,Hudson,Matt,,,Republican,Collier,ocd-division/country:us/state:fl/county:collier,3585,,,,,2007
+2014-11-30 20:52:59.512000,fl-2007-11-20-special-general,2007-11-20 00:00:00,2007-11-20 00:00:00,general,certified,True,State Representative,101,,McDonald,Linda,,,Democrat,Broward,ocd-division/country:us/state:fl/county:broward,807,,,,,2007
+2014-11-30 20:52:59.512000,fl-2007-11-20-special-general,2007-11-20 00:00:00,2007-11-20 00:00:00,general,certified,True,State Representative,101,,McDonald,Linda,,,Democrat,Collier,ocd-division/country:us/state:fl/county:collier,2394,,,,,2007
