@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:46:23.559000,fl-2010-02-23-special-general,2010-02-23 00:00:00,2010-02-23 00:00:00,general,certified,True,State Representative,058,,Chamberlin,Hunter,,,Republican,Hillsborough,ocd-division/country:us/state:fl/county:hillsborough,1288,,,,,2010
+2014-11-30 20:46:23.559000,fl-2010-02-23-special-general,2010-02-23 00:00:00,2010-02-23 00:00:00,general,certified,True,State Representative,058,,Cruz,Janet,,R.,Democrat,Hillsborough,ocd-division/country:us/state:fl/county:hillsborough,2390,,,,,2010
+2014-11-30 20:46:23.559000,fl-2010-02-23-special-general,2010-02-23 00:00:00,2010-02-23 00:00:00,general,certified,True,State Representative,058,,Vazquez,Jose,,,Write-In,Hillsborough,ocd-division/country:us/state:fl/county:hillsborough,2,,,,,2010
