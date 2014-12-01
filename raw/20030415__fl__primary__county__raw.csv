@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 21:02:27.889000,fl-2003-04-15-special-primary,2003-04-15 00:00:00,2003-04-15 00:00:00,primary,certified,True,State Representative,013,,Sparks,Linda,,,Republican,Clay,ocd-division/country:us/state:fl/county:clay,583,,,,,2003
+2014-11-30 21:02:27.889000,fl-2003-04-15-special-primary,2003-04-15 00:00:00,2003-04-15 00:00:00,primary,certified,True,State Representative,013,,Carroll,Jennifer,,,Republican,Clay,ocd-division/country:us/state:fl/county:clay,3525,,,,,2003
+2014-11-30 21:02:27.889000,fl-2003-04-15-special-primary,2003-04-15 00:00:00,2003-04-15 00:00:00,primary,certified,True,State Representative,013,,Sparks,Linda,,,Republican,Duval,ocd-division/country:us/state:fl/county:duval,8087,,,,,2003
+2014-11-30 21:02:27.889000,fl-2003-04-15-special-primary,2003-04-15 00:00:00,2003-04-15 00:00:00,primary,certified,True,State Representative,013,,Carroll,Jennifer,,,Republican,Duval,ocd-division/country:us/state:fl/county:duval,12953,,,,,2003
