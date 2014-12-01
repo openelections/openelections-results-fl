@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:53:42.751000,fl-2007-09-18-special-general,2007-09-18 00:00:00,2007-09-18 00:00:00,general,certified,True,State Representative,016,,McBurney,Charles,,,Republican,Duval,ocd-division/country:us/state:fl/county:duval,4781,,,,,2007
+2014-11-30 20:53:42.751000,fl-2007-09-18-special-general,2007-09-18 00:00:00,2007-09-18 00:00:00,general,certified,True,State Representative,016,,Jahns-Nelsen,Debra,,,Democrat,Duval,ocd-division/country:us/state:fl/county:duval,1260,,,,,2007
