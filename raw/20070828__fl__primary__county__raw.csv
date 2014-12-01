@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 20:53:53.356000,fl-2007-08-28-special-primary,2007-08-28 00:00:00,2007-08-28 00:00:00,primary,certified,True,State Representative,016,,Daniels,Lad,,,Republican,Duval,ocd-division/country:us/state:fl/county:duval,1758,,,,,2007
+2014-11-30 20:53:53.356000,fl-2007-08-28-special-primary,2007-08-28 00:00:00,2007-08-28 00:00:00,primary,certified,True,State Representative,016,,McBurney,Charles,,,Republican,Duval,ocd-division/country:us/state:fl/county:duval,2955,,,,,2007
