@@ -1,0 +1,3 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2014-11-30 21:11:05.079000,fl-2000-01-11-special-primary-runoff,2000-01-11 00:00:00,2000-01-11 00:00:00,primary-runoff,certified,True,State Representative,111,,Rubio,Marco,,,Republican,Miami-Dade,ocd-division/country:us/state:fl/county:miami-dade,1415,,,,,2000
+2014-11-30 21:11:05.079000,fl-2000-01-11-special-primary-runoff,2000-01-11 00:00:00,2000-01-11 00:00:00,primary-runoff,certified,True,State Representative,111,,Zayon,Angel,,,Republican,Miami-Dade,ocd-division/country:us/state:fl/county:miami-dade,1351,,,,,2000
